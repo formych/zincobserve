@@ -1,0 +1,5 @@
+{
+  "dockerFile":"../deploy/build/Dockerfile",
+  "features": {
+  }
+}
